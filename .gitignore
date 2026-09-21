@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.onnx
+*.engine
+
+# Videos
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Outputs
+outputs/
+
+# Virtual environments
+venv/
+.venv/
+env/
